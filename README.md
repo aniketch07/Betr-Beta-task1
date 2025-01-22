@@ -23,13 +23,13 @@ npm i
 To connect the application to Firebase, you need to add the following environment variables to a .env file located at the root of the project directory.
 Create a .env file in the root directory and add the following:
 ```
-NEXT_PUBLIC_FIREBASE_API_KEY="AIzaSyC53U5tisD1_Ezccb-O9khzRv8VGUzIjY8"
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="task-betrbeta.firebaseapp.com"
-NEXT_PUBLIC_FIREBASE_PROJECT_ID="task-betrbeta"
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET="task-betrbeta.firebasestorage.app"
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="108560743487"
-NEXT_PUBLIC_FIREBASE_APP_ID="1:108560743487:web:50ffd9afa2ac6ecc648c8a"
-NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID="G-GVGZ8HRT1W"
+NEXT_PUBLIC_FIREBASE_API_KEY=
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
+NEXT_PUBLIC_FIREBASE_APP_ID=
+NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=
 ```
 
 ### Run the Application
